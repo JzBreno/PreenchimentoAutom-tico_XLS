@@ -1,1 +1,4 @@
-sdslakdlask
+Problematica
+
+Manipular planilhas Excel - openpyxl
+Automatizar mouse e teclado - pyautogui
