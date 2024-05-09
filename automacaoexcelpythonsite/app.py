@@ -5,7 +5,7 @@
 import openpyxl
 import mouse as ms
 #importando biblioteca de automação de teclado e mouse
-import pyautogui
+import pyautogui 
 
 #importando o excel para dentro do programa e atribuindo a variavel workbook
 workbook = openpyxl.load_workbook('automacaoexcelpythonsite/vendas_de_produtos.xlsx')
